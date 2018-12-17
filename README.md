@@ -1,2 +1,2 @@
-# find_close_meteriotes
-Demo to find the nearest meteriot from a complete list of meteriots on NASA site.
+# find_close_meteorites
+Demo to find the nearest meteorit from a complete list of meteorites shared on NASA site.
