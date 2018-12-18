@@ -5,4 +5,8 @@ Demo to find the nearest meteorit from a complete list of meteorites shared on N
 
 This project requires Python 3 and the requests package.
 
-'python3 find_meteors.py'
+First, install pipenv. Then:
+......
+pipenv install requests
+pipenv run "python meteor/find_meteors.py"
+..............
